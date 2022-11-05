@@ -1,1 +1,1 @@
-image::https://github.com/mthmulders/mthmulders/blob/master/github-metrics.svg[Metrics]
+image::https://github.com/mthmulders/mthmulders/blob/main/github-metrics.svg[Metrics]
